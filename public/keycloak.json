@@ -1,0 +1,9 @@
+{
+  "realm": "hmda2",
+  "auth-server-url": "https://192.168.99.100:8080/auth",
+  "ssl-required": "all",
+  "resource": "hmda-help",
+  "public-client": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
